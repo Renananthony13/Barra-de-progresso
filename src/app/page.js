@@ -32,7 +32,8 @@ export default function Home() {
   }
 
   const handleRefresh = () => {
-    window.location.reload();
+    //window.location.reload();
+    window.open('https://t.me/+gI56UjP-UwU4YWMx', '_blank');
   };
 
   return (
